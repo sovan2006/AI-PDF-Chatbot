@@ -1,0 +1,10 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+*.log
+data/
+uploads/
+vectorstore/
+.DS_Store
+.agents/skills/developing-with-streamlit/
