@@ -27,13 +27,14 @@
 # 📸 Screenshots
 
 ## Home Page
+<img width="1440" height="781" alt="Screenshot 2026-07-16 at 9 03 59 AM" src="https://github.com/user-attachments/assets/4a4626dc-ddee-4f08-a34e-0be680deb584" />
 
-<img width="1440" height="900" alt="Screenshot 2026-07-16 at 8 54 02 AM" src="https://github.com/user-attachments/assets/cb71348e-7c49-4a37-a453-9affbabf78ba" />
 
 
 ## Chat Interface
 
-<img width="1440" height="900" alt="Screenshot 2026-07-16 at 8 55 30 AM" src="https://github.com/user-attachments/assets/755b784d-da28-460d-ab18-2cc77cfb9e52" />
+<img width="1440" height="765" alt="Screenshot 2026-07-16 at 9 04 27 AM" src="https://github.com/user-attachments/assets/f70ab5f6-fde0-423e-a0dc-4fe6abadc530" />
+
 
 
 ---
